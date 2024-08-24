@@ -1,4 +1,4 @@
-## Brody Foulk's First CS193 Homework
+# Brody Foulk's First CS193 Homework
 ### My Favorite Things about CS193
 - There are no exams
 - There is only one lecture per week

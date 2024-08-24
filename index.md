@@ -1,5 +1,5 @@
 ## Brody Foulk's First CS193 Homework
-###My Favorite Thins about CS193
+### My Favorite Thins about CS193
 - There are no exams
 - There is only one lecture per week
 - There are PSO's to help me learn because I have no idea what I am doing
